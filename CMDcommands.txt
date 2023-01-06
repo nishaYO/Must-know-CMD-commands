@@ -1,0 +1,10 @@
+cd.. =>to move to the parent directory
+mkdir <foldername> => to move a directory
+rmdir <foldername> => to remove a directory
+dir => to see the files and folders inside the directory
+title name_that_you_want =>to change the title 
+prompt name_that_you_want => to change the prompt(default present directory path)
+echo enter the text you want to put in the file here > <filename.fileextension> =>to create a file and enter the content inside
+<filename> => to open a file inside the present directory
+attrib +h +r +s <filename> => to hide, make read-only a system file  
+attrib -h -r -s <filename> => to unhide, remove read-only a system file
